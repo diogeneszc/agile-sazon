@@ -32,5 +32,5 @@
 
 - **Contacto / Redes:** 
  GitHub: [https://github.com/reinosodeily](https://github.com/reinosodeily)
-  - Correo:deilyyulia12@gmail.com
+  - Correo:deilyyulia12@gmail.com 
 
