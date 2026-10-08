@@ -40,7 +40,11 @@ HTML, CSS, JavaScript básico, Java, MySQL, lógica de programación.
 -Correo: mg553981@gmail.com
 
 
-### [Nombre del Integrante 5] - [Rol]
-- **Experiencia:** ...
-- **Capacidades:** ...
-- **Contacto / Redes:** ...
+### [Deily Yuliana Reinoso] - [Frontend]
+- **Experiencia:** Estudiante Asistente en Desarrollo de Software
+- **Capacidades:** Me apasiona el aprendizaje continuo, la resolución de problemas mediante el código y la creación de soluciones tecnológicas funcionales y eficientes.
+
+- **Contacto / Redes:** 
+ GitHub: [https://github.com/reinosodeily](https://github.com/reinosodeily)
+  - Correo:deilyyulia12@gmail.com 
+
